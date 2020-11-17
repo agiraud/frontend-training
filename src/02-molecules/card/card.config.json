@@ -1,0 +1,9 @@
+{
+  "title": "Card",
+  "status": "prototype",
+  "context": {
+    "image":"https://picsum.photos/300/175?random=1",
+    "title":"Consectetur adipiscing",
+    "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+  }
+}
