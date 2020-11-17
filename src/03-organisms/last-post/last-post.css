@@ -1,9 +1,12 @@
-.last-post ul {
-	list-style: none;
-	display: inline-block;
+.last-post {
+	
+	&__list {
+		list-style: none;
+
+		&__item {
+			display: inline-block;
+			margin: 0 15px
+		}
+	}
 }
 
-.last-post ul li {
-	display: inline-block;
-	margin: 0 15px
-}

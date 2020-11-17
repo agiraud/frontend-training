@@ -12,8 +12,17 @@
 	-ms-flex-direction:column;
 	flex-direction:column;
 	-webkit-box-shadow:  15px 15px 27px var(--color-gray-light), -15px -15px 27px var(--color-white);
-	box-shadow:  15px 15px 27px var(--color-gray-light), -15px -15px 27px var(--color-white);    
-}
-.card__content {
-	padding: 15px;
+    box-shadow:  15px 15px 27px var(--color-gray-light), -15px -15px 27px var(--color-white);   
+    
+    &__content {
+        padding: 15px;
+    }
+
+    &--highlight {
+        background-color: var(--color-primary);
+
+        & .title, .summary {
+            color: var(--color-white)
+        }
+    }
 }

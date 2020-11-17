@@ -6,17 +6,20 @@
       {
         "image":"https://picsum.photos/300/175?random=1",
         "title":"Consectetur adipiscing",
-        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "highlight": true
       },
       {
         "image":"https://picsum.photos/300/175?random=2",
         "title":"Consectetur adipiscing",
-        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "highlight": false
       },
       {
         "image":"https://picsum.photos/300/175?random=3",
         "title":"Consectetur adipiscing",
-        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "highlight": false
       }
     ]
   }
