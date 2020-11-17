@@ -1,2 +1,9 @@
-.last-post {
+.last-post ul {
+	list-style: none;
+	display: inline-block;
+}
+
+.last-post ul li {
+	display: inline-block;
+	margin: 0 15px
 }

@@ -4,3 +4,7 @@
 @import '../_base/_base.css';
 @import '../_base/_fonts.css';
 @import '../_base/_grid.css';
+
+@import '../01-atoms/title/title.css';
+@import '../02-molecules/card/card.css';
+@import '../03-organisms/last-post/last-post.css';

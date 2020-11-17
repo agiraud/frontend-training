@@ -1,2 +1,19 @@
 .card {
+	height:25em;
+	width:20em;
+	overflow:hidden;
+	border-radius:16px;
+	position:relative;
+	display:-webkit-box;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-box-orient:vertical;
+	-webkit-box-direction:normal;
+	-ms-flex-direction:column;
+	flex-direction:column;
+	-webkit-box-shadow:  15px 15px 27px var(--color-gray-light), -15px -15px 27px var(--color-white);
+	box-shadow:  15px 15px 27px var(--color-gray-light), -15px -15px 27px var(--color-white);    
+}
+.card__content {
+	padding: 15px;
 }
